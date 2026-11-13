@@ -1,0 +1,7 @@
+[project]
+name = "blent-assistant-rag-dic"
+version = "0.1.0"
+description = "Assistant de chat RAG sur des documents d'informations clés (LLM open-weights, base vectorielle locale)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
